@@ -1,0 +1,261 @@
+2020-08-17 16:57:56,419 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:06:38,275 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:07:51,364 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:10:44,657 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:10:59,707 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:12:44,141 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:12:52,495 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:18:24,389 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:18:34,034 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:23:11,582 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:24:34,652 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:24:40,671 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 17:24:49,745 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 17:43:05,114 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:43:11,703 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 17:43:19,133 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 17:45:07,927 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 17:45:11,867 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 17:45:18,012 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 17:45:23,946 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 17:45:24,045 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 17:45:24,121 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 17:45:24,233 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 17:45:24,345 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:11:25,246 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:11:29,663 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:11:35,699 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:11:35,773 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:11:35,905 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:11:38,055 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:11:39,231 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:11:39,452 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:11:39,544 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:11:39,619 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:11:39,735 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:11:39,835 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:11:39,988 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:15:53,167 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:15:57,888 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:16:07,326 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:16:07,340 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:16:07,451 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:16:08,929 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:16:10,191 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:16:10,416 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:16:10,504 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:16:10,583 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:16:10,690 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:16:10,811 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:16:10,963 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:18:01,878 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:18:06,167 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:18:16,363 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:18:16,379 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:18:16,477 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:18:17,890 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:18:19,119 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:18:19,384 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:18:19,469 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:18:19,554 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:18:19,682 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:18:19,776 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:18:19,915 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:21:48,917 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:21:57,115 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:22:05,059 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:22:05,074 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:22:05,143 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:22:09,001 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:22:10,497 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:22:10,752 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:22:10,849 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:22:10,935 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:22:11,053 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:22:11,154 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:22:11,321 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:37:49,172 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:37:54,125 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:38:01,683 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:38:01,696 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:38:01,778 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:38:02,998 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:38:05,331 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:38:05,578 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:38:05,701 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:38:05,786 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:38:05,895 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:38:05,995 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:38:06,134 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:40:22,221 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:40:26,382 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:40:32,782 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:40:32,887 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:40:32,961 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:40:34,265 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:40:35,452 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:40:35,706 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:40:35,797 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:40:35,888 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:40:36,003 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:40:36,099 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:40:36,238 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:40:38,585 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:40:39,033 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:40:40,254 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 18:40:58,385 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:41:02,243 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:41:09,446 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:41:09,460 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:41:09,526 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:41:10,752 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:41:11,867 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:41:12,109 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:41:12,206 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:41:12,290 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:41:12,422 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:41:12,521 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:41:12,661 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:41:14,271 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:41:14,718 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:41:15,942 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 18:42:56,529 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:43:00,540 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:43:06,597 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:43:06,613 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:43:06,810 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:43:09,211 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:43:10,260 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:43:10,487 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:43:10,574 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:43:10,653 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:43:10,769 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:43:10,872 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:43:11,035 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:43:12,817 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:43:13,264 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:43:14,436 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 18:45:39,423 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:45:43,155 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:45:49,539 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:45:49,579 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:45:49,649 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:45:50,849 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:45:51,927 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:45:52,156 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:45:52,242 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:45:52,330 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:45:52,438 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:45:52,538 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:45:52,691 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:45:54,426 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:45:54,875 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:45:56,109 [main] INFO testBase - ************ Click on delete Customer Details **********
+2020-08-17 18:45:56,193 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 18:48:26,819 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:48:30,544 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:48:36,429 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:48:36,443 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:48:36,578 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:48:37,882 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:48:39,745 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:48:39,962 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:48:40,052 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:48:40,132 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:48:40,245 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:48:40,347 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:48:40,498 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:48:42,181 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:48:42,641 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:48:43,860 [main] INFO testBase - ************ Click on delete Customer Details **********
+2020-08-17 18:48:43,947 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 18:52:01,961 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:52:05,790 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:52:12,670 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:52:12,718 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:52:12,928 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:52:14,104 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:52:15,226 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:52:15,515 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:52:15,615 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:52:15,695 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:52:15,814 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:52:15,911 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:52:16,066 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:52:17,743 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:52:18,161 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:52:19,376 [main] INFO testBase - ************ Click on delete Customer Details **********
+2020-08-17 18:52:19,457 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 18:54:57,365 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:55:48,851 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:55:52,646 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:55:59,641 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:57:26,349 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:57:30,059 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:57:37,368 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:58:38,886 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 18:58:42,558 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 18:58:49,966 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 18:58:49,993 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 18:58:50,081 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 18:58:51,322 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 18:58:52,585 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 18:58:52,828 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 18:58:52,916 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 18:58:52,998 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 18:58:53,115 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 18:58:53,210 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 18:58:53,363 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 18:58:54,997 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 18:58:55,441 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 18:58:56,622 [main] INFO testBase - ************ Click on delete Customer Details **********
+2020-08-17 18:58:56,696 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 19:03:00,225 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 19:03:04,106 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 19:03:12,297 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 19:03:12,316 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 19:03:12,393 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 19:03:14,252 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 19:03:15,376 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 19:03:15,628 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 19:03:15,717 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 19:03:15,819 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 19:03:15,927 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 19:03:16,029 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 19:03:16,182 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 19:03:18,856 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 19:03:18,949 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 19:03:20,342 [main] INFO testBase - ************ Click on delete Customer Details **********
+2020-08-17 19:03:20,484 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 19:04:52,382 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 19:04:58,744 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 19:05:04,982 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 19:05:04,994 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 19:05:05,062 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 19:05:07,406 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 19:05:08,451 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 19:05:08,657 [main] INFO testBase - ************ Enter LastName **********
+2020-08-17 19:05:08,747 [main] INFO testBase - ************ Select Gender **********
+2020-08-17 19:05:08,813 [main] INFO testBase - ************ Enter DOB **********
+2020-08-17 19:05:08,905 [main] INFO testBase - ************ Enter Company name **********
+2020-08-17 19:05:08,994 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-17 19:05:09,143 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-17 19:05:10,748 [main] INFO testBase - ************ Click on check box **********
+2020-08-17 19:05:11,196 [main] INFO testBase - ************ Click on edit Button **********
+2020-08-17 19:05:12,441 [main] INFO testBase - ************ Click on delete Customer Details **********
+2020-08-17 19:05:12,515 [main] INFO testBase - ************ Click on delete Button **********
+2020-08-17 19:20:30,822 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 19:20:38,941 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 19:20:44,990 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 19:20:45,003 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 19:20:45,075 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 19:20:46,232 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 19:20:47,267 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-17 19:21:22,115 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 19:22:32,756 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-17 19:22:37,337 [main] INFO testBase - ************ Customer Should be login  ************
+2020-08-17 19:22:44,677 [main] INFO testBase - ************validateTitle  ************
+2020-08-17 19:22:44,690 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-17 19:22:44,776 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-17 19:22:46,199 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-17 19:22:47,179 [main] INFO testBase - ************ Enter Email Id **********
