@@ -1,0 +1,39 @@
+2020-08-18 16:58:48 INFO  testBase:37 - ************ Lanchink on chrome browser **********
+2020-08-18 16:58:52 INFO  testBase:12 - ************ Customer Should be login  ************
+2020-08-18 16:58:59 INFO  testBase:15 - ************validateTitle  ************
+2020-08-18 16:58:59 INFO  testBase:19 - ************ Customer click on CustomerMenu **********
+2020-08-18 16:58:59 INFO  testBase:21 - ************ Customer click on CustomerMenu Item**********
+2020-08-18 16:59:01 INFO  testBase:23 - ************ Customer clic on Add Button **********
+2020-08-18 16:59:03 INFO  testBase:25 - ************ Enter Email Id **********
+2020-08-18 16:59:03 INFO  testBase:30 - ************ Enter firstName **********
+2020-08-18 16:59:03 INFO  testBase:32 - ************ Enter LastName **********
+2020-08-18 16:59:03 INFO  testBase:34 - ************ Select Gender **********
+2020-08-18 16:59:04 INFO  testBase:36 - ************ Enter DOB **********
+2020-08-18 16:59:04 INFO  testBase:38 - ************ Enter Company name **********
+2020-08-18 16:59:04 INFO  testBase:40 - ************ Select the Vendor **********
+2020-08-18 16:59:04 INFO  testBase:42 - ************ Click on Save Button **********
+2020-08-18 16:59:07 INFO  testBase:47 - ************ Click on check box **********
+2020-08-18 16:59:07 INFO  testBase:49 - ************ Click on edit Button **********
+2020-08-18 16:59:08 INFO  testBase:51 - ************ Click on delete Customer Details **********
+2020-08-18 16:59:08 INFO  testBase:53 - ************ Click on delete Button **********
+2020-08-18 16:59:10 INFO  testBase:9 - ************ click into Promotions **********
+2020-08-18 16:59:10 INFO  testBase:11 - ************ click into Promotions_Menu **********
+2020-08-18 16:59:13 INFO  testBase:14 - ************ click in Affiliates **********
+2020-08-18 16:59:14 INFO  testBase:16 - ************ click in addButton **********
+2020-08-18 16:59:15 INFO  testBase:18 - ************ click in Active Check Box **********
+2020-08-18 16:59:15 INFO  testBase:20 - ************ Enter the first name **********
+2020-08-18 16:59:15 INFO  testBase:24 - ************ Enter the lastName **********
+2020-08-18 16:59:15 INFO  testBase:26 - ************ Enter the Email id **********
+2020-08-18 16:59:15 INFO  testBase:30 - ************ Enter the company name **********
+2020-08-18 16:59:15 INFO  testBase:32 - ************ Enter the Country name **********
+2020-08-18 16:59:16 INFO  testBase:34 - ************ Enter the country/Region **********
+2020-08-18 16:59:16 INFO  testBase:36 - ************ Enter the City name **********
+2020-08-18 16:59:16 INFO  testBase:38 - ************ Enter the Address **********
+2020-08-18 16:59:16 INFO  testBase:40 - ************ Enter the phone number **********
+2020-08-18 16:59:16 INFO  testBase:42 - ************ Enter the pincode **********
+2020-08-18 16:59:16 INFO  testBase:44 - ************ Click on save button **********
+2020-08-18 16:59:20 INFO  testBase:47 - ************ Search the first Name **********
+2020-08-18 16:59:21 INFO  testBase:50 - ************ Click on search **********
+2020-08-18 16:59:21 INFO  testBase:52 - ************ Click on edit button **********
+2020-08-18 16:59:22 INFO  testBase:54 - ************ Click on delete button **********
+2020-08-18 16:59:22 INFO  testBase:56 - ************ Click on delete details **********

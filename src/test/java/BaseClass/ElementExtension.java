@@ -1,16 +1,19 @@
 package BaseClass;
 
 
+import java.io.Console;
 import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementClickInterceptedException;
+import org.openqa.selenium.ElementNotSelectableException;
 import org.openqa.selenium.ElementNotVisibleException;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 
 public class ElementExtension {
 	//  ".get()" extension method
@@ -93,6 +96,20 @@ public class ElementExtension {
         driver.manage().timeouts().pageLoadTimeout(seconds, TimeUnit.SECONDS);
      }
        
-     
+   
+    
+     public static void SelectElementByVisibletext(WebElement element,String text)
+     {
+         try { 
+         Select sobject = new Select(element);
+         sobject.selectByVisibleText(text);
+     }
+         catch(ElementNotSelectableException e)
+         {
+             System.out.println("Element not visible hence cannot be selected");
+             throw e;
+         }
+
+}
 
 }

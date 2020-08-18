@@ -9,14 +9,9 @@ import PageObjectModel.HomePageDetails;
 
 public class CustomerPageDetails extends Base {
 	String emailtext="";
-	public static String randomstring() {
-		String	generateString2=RandomStringUtils.randomAlphabetic(4);
-			return (generateString2);
-		}
-		public static String randomint() {
-			String generateint=RandomStringUtils.randomNumeric(6);
-			return (generateint);
-		}
+	
+	
+	
 	public void CustomerHomePage() {
 	
 		hp=new HomePageDetails(driver);
@@ -32,6 +27,8 @@ public class CustomerPageDetails extends Base {
 		hp.Enter_email(emailtext);
 		System.out.println(emailtext);
 		hp.Enter_password(randomint());
+		logger.info("************ Enter firstName **********");
+		hp.Enter_Frist_Name(randomstring());
 		logger.info("************ Enter LastName **********");
 		hp.Enter_Last_Name(randomstring());
 		logger.info("************ Select Gender **********");
@@ -55,6 +52,8 @@ public class CustomerPageDetails extends Base {
 		hp.deleteCustomer();
 		logger.info("************ Click on delete Button **********");
 		hp.deleteButtom();
+		
+	
 		
 	}
 }

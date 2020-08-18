@@ -5,9 +5,12 @@
     <classes>
       <class name="BaseClass.Base">
         <methods>
-          <include name="testMethod"/>
           <include name="tearDown"/>
+          <include name="title"/>
           <include name="initialization"/>
+          <include name="screenShotPage"/>
+          <include name="setReports"/>
+          <include name="EndReport"/>
         </methods>
       </class> <!-- BaseClass.Base -->
     </classes>
