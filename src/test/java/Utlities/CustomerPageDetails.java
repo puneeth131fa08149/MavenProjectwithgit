@@ -53,6 +53,8 @@ public class CustomerPageDetails extends Base {
 		logger.info("************ Click on delete Button **********");
 		hp.deleteButtom();
 		
+		
+	
 	
 		
 	}

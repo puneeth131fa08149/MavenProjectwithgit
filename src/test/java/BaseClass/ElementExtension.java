@@ -2,6 +2,7 @@ package BaseClass;
 
 
 import java.io.Console;
+import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
@@ -87,29 +88,39 @@ public class ElementExtension {
 
 
 	}
-	 public static void ImplicitlyWait(WebDriver driver, int seconds)
-     {
-        driver.manage().timeouts().implicitlyWait(seconds, TimeUnit.SECONDS);
-     }
-	 public static void pageLoadTimeout(WebDriver driver, int seconds)
-     {
-        driver.manage().timeouts().pageLoadTimeout(seconds, TimeUnit.SECONDS);
-     }
-       
-   
-    
-     public static void SelectElementByVisibletext(WebElement element,String text)
-     {
-         try { 
-         Select sobject = new Select(element);
-         sobject.selectByVisibleText(text);
-     }
-         catch(ElementNotSelectableException e)
-         {
-             System.out.println("Element not visible hence cannot be selected");
-             throw e;
-         }
+	public static void ImplicitlyWait(WebDriver driver, int seconds)
+	{
+		driver.manage().timeouts().implicitlyWait(seconds, TimeUnit.SECONDS);
+	}
+	public static void pageLoadTimeout(WebDriver driver, int seconds)
+	{
+		driver.manage().timeouts().pageLoadTimeout(seconds, TimeUnit.SECONDS);
+	}
 
-}
+
+
+	public static void SelectElementByVisibletext(WebElement element,String text)
+	{
+		try { 
+			Select sobject = new Select(element);
+			sobject.selectByVisibleText(text);
+		}
+		catch(ElementNotSelectableException e)
+		{
+			System.out.println("Element not visible hence cannot be selected");
+			throw e;
+		}
+
+	}
+	public static void webElements(WebDriver driver,String path) {
+		if (path=="text") {
+			WebElement element=driver.findElement(By.xpath(path));	
+		}else {
+			List<WebElement> element=driver.findElements(By.xpath(path));
+			int size=element.size();
+			System.out.println("All Links ="+size);
+		}
+		
+	}
 
 }

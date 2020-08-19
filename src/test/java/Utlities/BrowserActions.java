@@ -16,10 +16,10 @@ import BaseClass.Base;
 public class BrowserActions extends Base{
 	public static void lanchBrowser() {
 		try {
-			logger=Logger.getLogger("testBase");
+			logger=Logger.getLogger("lanchBrowser");
 			PropertyConfigurator.configure("log.properties");
 			prop=new Properties();
-			fls = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\java\\PropertiesFile\\config.properties");
+			fls = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\PropertiesFile\\config.properties");
 			prop.load(fls);
 		} 
 		catch (FileNotFoundException e) {

@@ -3,6 +3,7 @@ package BaseClass;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -11,7 +12,9 @@ import javax.swing.text.Utilities;
 import org.apache.commons.lang.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -33,6 +36,7 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
+import DisplayAllLinks.Links;
 import PageObjectModel.HomePageDetails;
 import PageObjectModel.LogOutDetails;
 import PageObjectModel.LoginPageDetails;
@@ -60,6 +64,7 @@ public class Base extends ElementExtension {
 	public static String generateString2;
 	public PromotionDetails pd;
 	public BrowserActions ba;
+	private Links l;
 
 	public static String randomstring() {
 		generateString2 = RandomStringUtils.randomAlphabetic(4);
@@ -100,17 +105,18 @@ public class Base extends ElementExtension {
 		ld.LoginPage();
 		cp = new CustomerPageDetails();
 		cp.CustomerHomePage();
+		l = new Links();
+		l.AllLinks();
 	}
 	@Test(priority=2)
 	public void google() throws InterruptedException {
-		test=extend.createTest("nopcommercetitleTest");
+		test=extend.createTest("PromotionDetails");
 		pd = new PromotionDetails();
 		pd.promotion();
 	}
-
 	@Test(priority=3)
 	public void test() throws InterruptedException {
-		test=extend.createTest("nopcommercetitleTest");
+		test=extend.createTest("LogOutDetails");
 		LogOutDetails lg=new LogOutDetails();
 		Thread.sleep(3000);
 		lg.Logout();
@@ -119,21 +125,19 @@ public class Base extends ElementExtension {
 	}
 	@Test(priority=4)
 	public void title() {
+		test=extend.createTest("ScreenShot");
 		Assert.assertEquals(driver.getTitle(), "google");
 	}
-
 	@AfterMethod
 	public void screenShotPage(ITestResult result) throws IOException {
 		if(result.getStatus()==result.FAILURE) {
 			ScreenShot screenshot=new ScreenShot();
-			String temp=	screenshot.getScreenShot(driver);
+			String temp=screenshot.getScreenShot(driver);
 			test.fail(result.getThrowable().getMessage(),MediaEntityBuilder.createScreenCaptureFromPath(temp).build());
 		}
 	}
 	@AfterClass
 	public void tearDown() {
-
 		lp.closeBrowser(driver);
 	}
-
 }
